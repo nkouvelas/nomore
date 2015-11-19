@@ -3,7 +3,8 @@
 #define FIXFFT_H
 
 #include <WProgram.h>
-
+#include "application.h"
+#include <math.h>
 
 
 
